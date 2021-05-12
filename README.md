@@ -8,9 +8,10 @@
     * Firstly install pyinstaller
    
     ```python
-    pip install pyinstaller
+         pip install pyinstaller
     ```
     * Navigate to the folder containing frontend.py file and then
-    *```python
-    pip install pyinstaller
+   
+    ```python
+         pyinstaller --onefile -w 'frontend.py'
     ```
