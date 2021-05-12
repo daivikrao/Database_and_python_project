@@ -1,5 +1,5 @@
 # Database and python project
-## Description
+## **Description**
 
   * The project makes use of python along with sqlite3.
   * It creates a database to store records of the fees of students.
@@ -8,7 +8,6 @@
 
     * Firstly install pyinstaller
 
-   
     ```python
          pip install pyinstaller
     ```
