@@ -16,3 +16,4 @@
     ```python
          pyinstaller --onefile -w 'frontend.py'
     ```
+  * Since it can be converted easily to .exe file it can be used by any user (from non-coding background).
