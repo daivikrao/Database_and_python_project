@@ -5,8 +5,12 @@
   * It allows updation,search and deletion to be performed.
   * The project can be converted into an .exe file using pyinstaller.
 
-    * firstly install pyinstaller
+    * Firstly install pyinstaller
    
     ```python
+    pip install pyinstaller
+    ```
+    * Navigate to the folder containing frontend.py file and then
+    *```python
     pip install pyinstaller
     ```
