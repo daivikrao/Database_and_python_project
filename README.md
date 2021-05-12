@@ -1,5 +1,6 @@
 # Database and python project
 ## Description
+_ _ _
   * The project makes use of python along with sqlite3.
   * It creates a database to store records of the fees of students.
   * It allows updation,search and deletion to be performed.
