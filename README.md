@@ -11,7 +11,7 @@
     ```python
          pip install pyinstaller
     ```
-    * Navigate to the folder containing frontend.py file and then
+    * Navigate to the folder containing frontend.py file using 'cd' command and then
    
     ```python
          pyinstaller --onefile -w 'frontend.py'
